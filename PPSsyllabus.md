@@ -1,13 +1,14 @@
-
-### _Programming for Problem Solving (ESC-18104)_
-
+<center> 
+###_Programming for Problem Solving (ESC-18104)_ 
+</center>
 ---
 
 
 #### Credits: [L: 3; T:1; P: 0 (4 credits)] <br>
 #### Detailed contents: <br> 
 
-## _PART - A_ 
+<center>
+##_PART - A_ 
 
 ### Unit 1:<br>
  Introduction to Programming, Introduction to components of a computer system (disks, memory, processor, where a program is stored and executed, operating system, compilers etc.) [1]<br>
@@ -23,7 +24,7 @@ Writing and evaluation of conditionals and consequent branching Iteration and lo
 Arrays: Arrays (1-D, 2-D), Character arrays and Strings [6] 
 
 ### Unit   4: <br>
-Basic   Algorithms:   Searching,   Basic   Sorting   Algorithms   (Bubble,   Insertion   and Selection), Finding  roots ofequations, notion of order of complexity through  example programs (no formal definitionrequired) [6] 
+Basic   Algorithms:   Searching,   Basic   Sorting   Algorithms   (Bubble,   Insertion   and Selection), Finding  roots of equations, notion of order of complexity through  example programs (no formal definitionrequired) [6] 
 
 
 
@@ -53,4 +54,4 @@ File handling [3]
 - Byron Gottfried, Schaum's Outline of Programming with C, McGraw-Hill 
 - E. Balaguruswamy, Programming in ANSI C, Tata McGraw-Hill Suggested Reference Books 
 - Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Prentice Hall of India 
-
+</center>
